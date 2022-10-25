@@ -3,6 +3,8 @@ RENCANA CONTENT WPU
 Javascript
 *ES6
 *Framework Javascript
+ ^Angular
+  ^React
 struktur data dasar
 PHP Framework
 Interviews
