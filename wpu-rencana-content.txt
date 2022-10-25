@@ -3,7 +3,10 @@ RENCANA CONTENT WPU
 Javascript
 *ES6
 *Framework Javascript
+ ^vue
+ ^React
 struktur data dasar
 PHP Framework
+ ^Laravel
 Interviews
 Vlogs
